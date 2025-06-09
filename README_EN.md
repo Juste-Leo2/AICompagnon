@@ -1,8 +1,9 @@
 <div align="center">
   <a href="README.md" target="_blank">
-    <img alt="📄 Version Française" src="https://img.shields.io/badge/📄 Version%20Française-007ACC?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/AICompagnon-Version%20Française-536af5?style=flat-square&logo=github&logoColor=white&labelColor=333" alt="Version Française" />
   </a>
 </div>
+
 
 
 # AICompagnon
