@@ -1,6 +1,6 @@
-<div align="left">
+<div align="center">
   <a href="README.md" target="_blank">
-    <img src="https://img.shields.io/badge/📄 Version%20Française-007ACC?style=flat-square&logo=github&logoColor=white" alt="Version Française">
+    <img alt="📄 Version Française" src="https://img.shields.io/badge/📄 Version%20Française-007ACC?style=for-the-badge&logo=github" />
   </a>
 </div>
 
