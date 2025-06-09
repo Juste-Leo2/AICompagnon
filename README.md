@@ -1,6 +1,6 @@
 <div align="left">
   <a href="README_EN.md" target="_blank">
-    <img src="https://img.shields.io/badge/🇬🇧 AICompagnon-English%20Version-536af5?style=flat-square&labelColor=333" alt="English Version" />
+    <img src="https://img.shields.io/badge/🇬🇧- English%20Version-536af5?style=flat-square&labelColor=333" alt="English Version" />
   </a>
 </div>
 
