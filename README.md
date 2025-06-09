@@ -1,6 +1,6 @@
-<div align="right">
-  <a href="README_EN.md">
-    <img src="https://img.shields.io/badge/🌐 English%20Version-blue?style=for-the-badge" alt="English Version">
+<div align="left">
+  <a href="README_EN.md" target="_blank">
+    <img src="https://img.shields.io/badge/🌐 English%20Version-2D8CFF?style=flat-square&logo=github&logoColor=white" alt="English Version">
   </a>
 </div>
 
