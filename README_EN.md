@@ -1,3 +1,8 @@
+<div align="right">
+  <a href="README.md">
+    <img src="https://img.shields.io/badge/📄 French%20Version-blue?style=for-the-badge" alt="French Version">
+  </a>
+</div>
 
 # AICompagnon
 
@@ -5,7 +10,7 @@
   <img src="docs/images/image1.png" alt="AICompagnon" width="300">
 </div>
 
-📄 [French version](README.md)
+
 
 ## Project Objective
 
