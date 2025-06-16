@@ -59,16 +59,17 @@ sudo reboot
 ``` 
 Configuration broches :
 
-```bash
-Alimentation : 3.3V
-CLK : GPIO 43
-MOSI : GPIO 42
-MISO : GPIO 41
-SS/CS : GPIO 44
-BL : GPIO 105
-DC : GPIO 106
-RST : GPIO 107
-```
+
+| Pin / Fonction | GPIO / Connexion |
+|:---|:---|
+| Alimentation | 3.3V |
+| CLK | GPIO 43 |
+| SDI / MOSI | GPIO 42 |
+| SDO / MISO | GPIO 41 |
+| SS/CS | GPIO 44 |
+| BL | GPIO 105 |
+| DC | GPIO 106 |
+| RST | GPIO 107 |
 
 ▶️ [Documentation Radxa Rock 5B+](https://docs.radxa.com/en/rock5/rock5b/hardware-design/hardware-interface?versions=ROCK+5B%2B)
 
