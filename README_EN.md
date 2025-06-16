@@ -94,7 +94,7 @@ chmod +x download.sh run_linux.sh
 
 ## Hardware
 
-- [Hardware specifications](docs/material/materiel.md)  
+- [Hardware specifications](docs/material/materiel_EN.md)  
 - [3D files (STL)](docs/stl)
 
 ---
